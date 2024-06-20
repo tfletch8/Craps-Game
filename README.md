@@ -1,1 +1,3 @@
 A basic C# program that lets the user play a game of Craps.
+
+The user starts with 100 chips, when the game starts the dice roll amount is randomized and the program asks the user how many chips they would like to wager. If the user rolls a 7 or 11 on the first roll, they win automatically, if they roll at 2, 3, or 12, they lose, and if they roll a 4, 5, 6, 8, 9, or 10 they get to roll again. If the second roll is equal to their first roll, then they win, if they roll a 7, they lose, and if it isn't either, they will keep rolling until they roll a 7 or the first roll. The game will continue to play until the user decides to exit or they run out of chips.
